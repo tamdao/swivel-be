@@ -32,6 +32,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Features
+- ✅ List, Add, Edit, Delete employee API
+- ✅ Validation for all employee field
+
 ## Installation
 
 ```bash
