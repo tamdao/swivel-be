@@ -40,6 +40,8 @@ $ yarn install
 
 ## Running the app
 
+You need to change the `.env.local.example` to `.env.local`
+
 ```bash
 # development
 $ yarn run start
